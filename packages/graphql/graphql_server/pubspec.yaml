@@ -8,8 +8,8 @@ environment:
 dependencies:
   angel_serialize: ^2.0.0
   collection: ^1.0.0
-  graphql_schema: ^1.0.0
-  graphql_parser: ^1.0.0
+  graphql_schema: 
+  graphql_parser: 
   meta: ^1.0.0
   recase: ^2.0.0
   stream_channel: ^2.0.0
