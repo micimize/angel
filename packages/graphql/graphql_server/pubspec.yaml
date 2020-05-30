@@ -10,6 +10,10 @@ dependencies:
   collection: ^1.0.0
   graphql_schema: 
   graphql_parser: 
+    git:
+      url: git@github.com:micimize/angel.git
+      ref: fix_for_test_server
+      path: packages/graphql/graphql_parser
   meta: ^1.0.0
   recase: ^2.0.0
   stream_channel: ^2.0.0
